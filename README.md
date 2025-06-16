@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Markoutsis</h1>
+<h1 align="center">Hi! I'm Alex Markoutsis</h1>
 <h3 align="center">An aspiring software developer and current college student from Wisconsin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarkoutsis&label=Profile%20views&color=0e75b6&style=flat" alt="alexmarkoutsis" /> </p>
