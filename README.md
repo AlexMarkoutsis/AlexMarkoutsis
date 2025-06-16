@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rubik's Cube Art Generator](<placeholder for rubik's art project link>)
 
-- 🌱 I’m currently learning **database structures/algorithms**
+- 🌱 I’m currently learning **more about databases**
 
 - 👨‍💻 All of my projects are available at [<portfolio placeholder>](<portfolio placeholder>)
 
