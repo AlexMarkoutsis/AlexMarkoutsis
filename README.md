@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more about databases**
 
-- 👨‍💻 All of my projects are available at [<portfolio placeholder>](<portfolio placeholder>)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/AlexMarkoutsis?tab=repositories)
 
 - 💬 Ask me about my experiences with **GDScript and Django**
 
