@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [<portfolio placeholder>](<portfolio placeholder>)
 
-- 💬 Ask me about my experiences with **gdscript, java, python**
+- 💬 Ask me about my experiences with **GDScript and Django**
 
 - 📫 Reach out to me: **markout2@uwm.edu**
 
