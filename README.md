@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Markoutsis</h1>
 <h3 align="center">An aspiring software developer and current college student from Wisconsin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarkoutsis&label=Profile%20views&color=0e75b6&style=flat" alt="alexmarkoutsis" /> </p>
-
 - 🔭 I’m currently working on [Rubik's Cube Art Generator](<placeholder for rubik's art project link>)
 
 - 🌱 I’m currently learning **database structures/algorithms**
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmarkoutsis&show_icons=true&locale=en&layout=compact" alt="alexmarkoutsis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmarkoutsis&show_icons=true&locale=en" alt="alexmarkoutsis" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarkoutsis&label=Profile%20views&color=0e75b6&style=flat" alt="alexmarkoutsis" /> </p>
