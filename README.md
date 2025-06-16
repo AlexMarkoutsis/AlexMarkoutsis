@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **markout2@uwm.edu**
 
-- 📄 Know about my experiences [<resume placeholder>](<resume placeholder>)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1x90U8OogqQBDRsoF9sr8rvPAhIe61mKK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
