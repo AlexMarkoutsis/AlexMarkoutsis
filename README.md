@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **gdscript, java, python**
 
-- 📫 How to reach me **markout2@uwm.edu**
+- 📫 Reach out to me: **markout2@uwm.edu**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1x90U8OogqQBDRsoF9sr8rvPAhIe61mKK/view?usp=sharing)
 
