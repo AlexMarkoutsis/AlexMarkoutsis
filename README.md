@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarkoutsis&label=Profile%20views&color=0e75b6&style=flat" alt="alexmarkoutsis" /> </p>
 
-- 🔭 I’m currently working on [Balatrodle Unlimited](https://github.com/AlexMarkoutsis/balatrodle-unlimited)
+- 🔭 I’m currently working on my Capstone Project, a Centralized Lost and Found Service
 
 - 🌱 I’m currently learning **more about databases**
 
