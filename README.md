@@ -12,7 +12,7 @@
 - 🌱 Expanding experience in relational database design, backend architecture, and systems programming
 - 👨‍💻 Projects available on [GitHub](https://github.com/AlexMarkoutsis?tab=repositories)
 - 📫 Contact: **alexmarkoutsis@gmail.com**
-- 📄 Resume: [View here]([https://drive.google.com/file/d/1x90U8OogqQBDRsoF9sr8rvPAhIe61mKK/view](https://drive.google.com/file/d/1y9I88IdpqMyIq8qBuUVr7X99N6PYTubo/view?usp=sharing))
+- 📄 Resume: [View here](https://drive.google.com/file/d/1y9I88IdpqMyIq8qBuUVr7X99N6PYTubo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
