@@ -6,7 +6,7 @@
 </p>
 
 - 🎓 Computer Science student at the University of Wisconsin–Milwaukee (GPA: 3.92, graduating May 2026)
-- 🔭 Currently developing a **Centralized University Lost & Found Platform** (Capstone Project) using **React, Django, and PostgreSQL**
+- 🔭 Currently developing a [**Centralized University Lost & Found Platform**](https://github.com/AlexMarkoutsis/lost-found-item-tracker) (Capstone Project) using **React, Django, and PostgreSQL**
 - ⚙️ Experienced in building backend systems, database-driven applications, and systems-level projects
 - 🧠 Completed projects including a [**MIPS assembler**](https://github.com/AlexMarkoutsis/Reduced-ISA-MIPS-Assembler) and [**single-cycle processor simulator**](https://github.com/AlexMarkoutsis/Reduced-ISA-MIPS-Simulator) and multiple Django web applications
 - 🌱 Expanding experience in relational database design, backend architecture, and systems programming
