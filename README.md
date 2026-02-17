@@ -5,14 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=alexmarkoutsis&label=Profile%20views&color=0e75b6&style=flat" alt="alexmarkoutsis" />
 </p>
 
-- 🎓 Computer Science student at the University of Wisconsin–Milwaukee (GPA: 3.92, graduating May 2026)
-- 🔭 Currently developing a [**Centralized University Lost & Found Platform**](https://github.com/AlexMarkoutsis/lost-found-item-tracker) (Capstone Project) using **React, Django, and PostgreSQL**
-- ⚙️ Experienced in building backend systems, database-driven applications, and systems-level projects
-- 🧠 Completed projects including a [**MIPS assembler**](https://github.com/AlexMarkoutsis/Reduced-ISA-MIPS-Assembler) and [**single-cycle processor simulator**](https://github.com/AlexMarkoutsis/Reduced-ISA-MIPS-Simulator) and multiple Django web applications
-- 🌱 Expanding experience in relational database design, backend architecture, and systems programming
-- 👨‍💻 Projects available on [GitHub](https://github.com/AlexMarkoutsis?tab=repositories)
-- 📫 Contact: **alexmarkoutsis@gmail.com**
-- 📄 Resume: [View here](https://drive.google.com/file/d/183vTlPOsmZ7X-dL34eMz-fZvd2hv-mnq/view?usp=sharing)
+- Computer Science student at the University of Wisconsin–Milwaukee (GPA: 3.92, graduating May 2026)
+- Currently developing a [**Centralized University Lost & Found Platform**](https://github.com/AlexMarkoutsis/lost-found-item-tracker) (Capstone Project) using **React, Django, and PostgreSQL**
+- Experienced in building backend systems, database-driven applications, and systems-level projects
+- Completed projects including a [**MIPS assembler**](https://github.com/AlexMarkoutsis/Reduced-ISA-MIPS-Assembler) and [**single-cycle processor simulator**](https://github.com/AlexMarkoutsis/Reduced-ISA-MIPS-Simulator) and multiple Django web applications
+- Expanding experience in relational database design, backend architecture, and systems programming
+- Projects available on [GitHub](https://github.com/AlexMarkoutsis?tab=repositories)
+- Contact: **alexmarkoutsis@gmail.com**
+- Resume: [View here](https://drive.google.com/file/d/183vTlPOsmZ7X-dL34eMz-fZvd2hv-mnq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
